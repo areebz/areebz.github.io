@@ -1,11 +1,11 @@
 # Site settings
 author: Areeba Zahir
-title: 
+title: Software Engineering?
 header-img: img/home-bg.png
 email: areebazahir3@gmail.com
 copyright_name: Areeba Zahir
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Lets do this!
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  areebz
