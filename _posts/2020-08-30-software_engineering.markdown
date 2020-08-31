@@ -1,12 +1,11 @@
 ---
 layout: post
 title:      "Software Engineering?"
-date:       2020-08-31 02:21:36 +0000
+date:       2020-08-30 22:21:37 -0400
 permalink:  software_engineering
 ---
 
 
-"#Software Engineering?" 
 
 Today, technology is an essential skill and software companies are in demand for engineers. A career in software engineering will help me understand not just why products are made but also how they are made.
 As I lost my job due to covid in May I wanted a change. I knew I wasn't going to be happy in sales my whole life. I was always interested in the backend of products made by companies. I always wanted to learn coding but I didn’t think I could do it. With self doubt I always pushed it aside and focused on pursuing the sales route I was currently on. As quaretntine hit, I thought this would be the best time to step out of my norm and work towards a career that excites and challenges me.
